@@ -1,0 +1,14 @@
+{
+    "applications": {
+        "John Uke": {
+            "applicationId": "rq5GpDSB47u2dGuWuvh8llnGIP5Y11rCmJ7D7hCu", 
+            "masterKey": "6u7tORp7HP8yBPzS4NrFbVW2fmfpAw5IDrXyDAvZ"
+        }, 
+        "_default": {
+            "link": "John Uke"
+        }
+    }, 
+    "global": {
+        "parseVersion": "1.3.1"
+    }
+}

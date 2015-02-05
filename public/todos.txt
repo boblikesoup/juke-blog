@@ -1,0 +1,6 @@
+change links to 100% opacity on scrollover
+rename to things I will remember
+convert to jade?
+when scroll keep top of page stuck
+change time archive to subject
+make my own quote
